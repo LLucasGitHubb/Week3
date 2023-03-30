@@ -1,0 +1,11 @@
+D:\LTMCB\Thực hành\Week3\Week3\bin\Debug\Week3.exe.config
+D:\LTMCB\Thực hành\Week3\Week3\bin\Debug\Week3.exe
+D:\LTMCB\Thực hành\Week3\Week3\bin\Debug\Week3.pdb
+D:\LTMCB\Thực hành\Week3\Week3\obj\Debug\Week3.csproj.AssemblyReference.cache
+D:\LTMCB\Thực hành\Week3\Week3\obj\Debug\Week3.csproj.SuggestedBindingRedirects.cache
+D:\LTMCB\Thực hành\Week3\Week3\obj\Debug\Week3.Properties.Resources.resources
+D:\LTMCB\Thực hành\Week3\Week3\obj\Debug\Week3.csproj.GenerateResource.cache
+D:\LTMCB\Thực hành\Week3\Week3\obj\Debug\Week3.csproj.CoreCompileInputs.cache
+D:\LTMCB\Thực hành\Week3\Week3\obj\Debug\Week3.exe
+D:\LTMCB\Thực hành\Week3\Week3\obj\Debug\Week3.pdb
+D:\LTMCB\Thực hành\Week3\Week3\obj\Debug\Week3.server.resources
